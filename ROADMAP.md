@@ -13,6 +13,7 @@
 - [ ] Cidades: vínculos com países, pesquisa e validação.
 - [ ] Clubes: identificação, localização, reputação, cores e dados econômicos básicos.
 - [ ] Jogadores: identificação, nascimento, nacionalidade, posição, habilidade e clube opcional.
+- [ ] Atributos dos jogadores: 36 atributos inteiros de 0 a 20 (12 técnicos, 10 mentais, 8 físicos e 6 de goleiro), sem Overall nesta etapa. Ver [especificação](docs/PLAYER_ATTRIBUTES.md).
 
 ## Fase 2 — Publicação e integração (planejado)
 - [ ] Validar integridade e publicar banco somente após aprovação.
@@ -20,6 +21,7 @@
 - [ ] Carregador na Unity e criação de saves separados dos dados-base.
 
 ## Fase 3 — Simulador (futuro)
+- [ ] Projetar e implementar Overall (OVR) com pesos por posição, depois dos 36 atributos.
 - [ ] Calendário, competições e classificação.
 - [ ] Motor de partidas e estatísticas.
 - [ ] Contratos, transferências, finanças, IA de clubes e desenvolvimento de jogadores.
