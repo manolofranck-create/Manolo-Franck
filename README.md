@@ -23,6 +23,7 @@ Construir um jogo de gestão de futebol em **Unity (C#)**, começando por um **E
 - [Arquitetura](docs/ARCHITECTURE.md)
 - [Banco de dados](docs/DATABASE.md)
 - [Atributos dos jogadores](docs/PLAYER_ATTRIBUTES.md)
+- [Posições dos jogadores](docs/PLAYER_POSITIONS.md)
 - [Decisões e pendências](docs/DECISIONS.md)
 - [Contribuição](CONTRIBUTING.md)
 - [Histórico](CHANGELOG.md)
