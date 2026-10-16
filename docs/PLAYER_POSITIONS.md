@@ -1,6 +1,6 @@
 # Posições dos jogadores — v1
 
-**Decisão:** 11 posições oficiais. LD e LE são posições distintas. Posições e familiaridade não fazem parte dos 36 atributos de jogador.
+**Decisão:** 13 posições oficiais. LD e LE são posições distintas. Posições e familiaridade não fazem parte dos 36 atributos de jogador.
 
 | Código | Nome | Setor |
 |---|---|---|
@@ -10,10 +10,12 @@
 | LE | Lateral esquerdo | Defesa |
 | VOL | Volante / meia defensivo | Meio-campo |
 | MC | Meia central | Meio-campo |
+| MAT | Meia atacante | Meio-campo ofensivo |
 | MD | Meia direita | Meio-campo |
 | ME | Meia esquerda | Meio-campo |
 | PD | Ponta direita | Ataque |
 | PE | Ponta esquerda | Ataque |
+| SA | Segundo atacante | Ataque |
 | ATA | Atacante | Ataque |
 
 ## Modelo proposto
