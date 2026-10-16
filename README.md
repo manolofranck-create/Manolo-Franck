@@ -2,6 +2,10 @@
 
 Projeto comunitário de simulador de gerenciamento de futebol inspirado no gênero de Football Manager e FIFA Manager 13, com identidade e implementação próprias.
 
+**Início oficial do projeto: 16/10/2026.**
+
+**Primeira frente de desenvolvimento:** Editor de Dados externo para Windows.
+
 **Estado:** planejamento técnico. Nenhum módulo de software foi implementado ainda.
 
 ## Objetivo
