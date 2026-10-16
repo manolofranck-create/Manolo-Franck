@@ -9,6 +9,8 @@
 - Documentação e tarefas públicas no GitHub, em português.
 - Codex/ChatGPT Work para apoiar implementação, testes e revisão, não para substituir validação.
 
+- Sistema inicial de **36 atributos de jogadores**, inteiros de **0 a 20**: 12 técnicos, 10 mentais, 8 físicos e 6 de goleiro. **Overall fica para uma etapa futura**, sem fórmula provisória. Ver [especificação](PLAYER_ATTRIBUTES.md).
+
 ## Propostas a confirmar
 - Múltiplos bancos editáveis no Editor (criar, abrir, duplicar, publicar) versus banco principal único. Recomenda-se suporte a múltiplos bancos, mas não houve decisão final.
 - Detalhes de licenciamento do repositório e políticas de contribuição.
