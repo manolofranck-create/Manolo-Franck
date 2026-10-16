@@ -11,7 +11,10 @@
 
 - Sistema inicial de **36 atributos de jogadores**, inteiros de **0 a 20**: 12 técnicos, 10 mentais, 8 físicos e 6 de goleiro. **Overall fica para uma etapa futura**, sem fórmula provisória. Ver [especificação](PLAYER_ATTRIBUTES.md).
 
+- Catálogo inicial de 11 posições: GOL, ZAG, LD, LE, VOL, MC, MD, ME, PD, PE, ATA; separar laterais direito e esquerdo. Ver [especificação](PLAYER_POSITIONS.md).
+
 ## Propostas a confirmar
+- Confirmar se familiaridade por posição será um valor de 0 a 20.
 - Múltiplos bancos editáveis no Editor (criar, abrir, duplicar, publicar) versus banco principal único. Recomenda-se suporte a múltiplos bancos, mas não houve decisão final.
 - Detalhes de licenciamento do repositório e políticas de contribuição.
 - Versões de .NET, Avalonia, EF Core e Unity.
