@@ -13,7 +13,7 @@
 - [ ] Cidades: vínculos com países, pesquisa e validação.
 - [ ] Clubes: identificação, localização, reputação, cores e dados econômicos básicos.
 - [ ] Jogadores: identificação, nascimento, nacionalidade, posição, habilidade e clube opcional.
-- [ ] Posições dos jogadores: 11 posições oficiais (GOL, ZAG, LD, LE, VOL, MC, MD, ME, PD, PE, ATA); posição principal e secundárias. Ver [especificação](docs/PLAYER_POSITIONS.md).
+- [ ] Posições dos jogadores: 13 posições oficiais (GOL, ZAG, LD, LE, VOL, MC, MD, ME, MAT, PD, PE, SA, ATA); posição principal e secundárias. Ver [especificação](docs/PLAYER_POSITIONS.md).
 - [ ] Atributos dos jogadores: 36 atributos inteiros de 0 a 20 (12 técnicos, 10 mentais, 8 físicos e 6 de goleiro), sem Overall nesta etapa. Ver [especificação](docs/PLAYER_ATTRIBUTES.md).
 
 ## Fase 2 — Publicação e integração (planejado)
