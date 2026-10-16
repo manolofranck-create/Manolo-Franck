@@ -1,5 +1,10 @@
 # Changelog
 
+## 16/10/2026 — Definição do sistema de atributos
+- Escolhidos 36 atributos de jogadores (12 técnicos, 10 mentais, 8 físicos e 6 de goleiro), escala inteira 0–20.
+- Overall (OVR) explicitamente adiado para etapa futura.
+
+
 ## 16/10/2026 — Início oficial do projeto
 - Projeto iniciado oficialmente em 16 de outubro de 2026.
 - Primeira frente de desenvolvimento definida: **Editor de Dados externo** (C#, Avalonia UI, SQLite), começando pelos módulos Países, Cidades, Clubes e Jogadores.
